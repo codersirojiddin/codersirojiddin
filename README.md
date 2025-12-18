@@ -1,16 +1,24 @@
 ## Hi there 👋
+I’m an aspiring Full-Stack Developer, currently focused on Frontend development and building a strong foundation for future full-stack work.
 
-<!--
-**codersirojiddin/codersirojiddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I do
+Frontend Developer (Junior+ level)
+Actively learning and improving every day
+Interested in building real-world products and scalable systems
 
-Here are some ideas to get you started:
+🧠 Currently learning
+HTML
+CSS
+JavaScript (basic to intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Long-term goal
+To build and launch my own startup
+Grow into a confident Full-Stack Developer
+
+🤝 Open to
+Learning opportunities
+Collaboration on beginner-friendly projects
+Feedback and mentorship
+
+🔗 Connect with me on
+LinkedIn and Instagram
