@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an aspiring Full-Stack Developer, currently focused on Frontend development and building a strong foundation for future full-stack work.<br><br>🚀 What I do Frontend Developer (Junior+ level) Actively learning and improving every day Interested in building real-world products and scalable systems<br><br>🧠 Currently learning Golang <br><br>🎯 Long-term goal To build and launch my own startup Grow into a confident Full-Stack Developer<br><br>🤝 Open to Learning opportunities Collaboration on beginner-friendly projects Feedback and mentorship<br><br>🔗 Connect with me on LinkedIn and Instagram
+I’m an aspiring Full-Stack Developer, currently focused on Backend development and building a strong foundation for future full-stack work.<br><br>🚀 What I do Frontend Developer (Junior+ level) Actively learning and improving every day Interested in building real-world products and scalable systems<br><br>🧠 Currently learning Golang <br><br>🎯 Long-term goal To build and launch my own startup Grow into a confident Full-Stack Developer<br><br>🤝 Open to Learning opportunities Collaboration on beginner-friendly projects Feedback and mentorship<br><br>🔗 Connect with me on LinkedIn and Instagram
 
 
 ## 🌐 Socials:
