@@ -39,9 +39,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codersirojiddin&show_icons=true&locale=en&layout=compact" alt="codersirojiddin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codersirojiddin&show_icons=true&locale=en" alt="codersirojiddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codersirojiddin&" alt="codersirojiddin" /></p>
 
